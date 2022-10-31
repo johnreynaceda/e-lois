@@ -153,7 +153,7 @@
             <div class="mt-3 text-center sm:mt-5">
               <h3 class="text-lg font-medium leading-6 text-gray-900" id="modal-title">Logout Account</h3>
               <div class="mt-2">
-                <p class="text-sm text-gray-500">Are you sure you want to logout?</p>
+                <p class="text-sm text-gray-500">Are yous sure you want to logout?</p>
               </div>
             </div>
           </div>
